@@ -7,7 +7,7 @@ This tutorial will be an observation of various network traffic to and from Virt
 <h1>Pre-requisites:</h1>
 This tutorial requires you to have already completed the previous tutorials and is the continuation of the last one where we created Virtual Machhines in Azure. If not completed, please use the link below to redirect to the tutorial before continuing.
 
-- [How to Setup VMs and a Virtual Network in Azure](https://github.com/bvongpradith/creating-azure-vm)<br />
+- [How to Setup VMs and a Virtual Network in Azure](https://github.com/BroderickSession/creating-azure-vm)<br />
 <h1>Software and Tools Used</h1>
 
 - Microsoft Azure
